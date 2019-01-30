@@ -1,0 +1,27 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+numpy = "*"
+keras = "*"
+tensorflow = "*"
+ipykernel = "*"
+opencv-python = "*"
+scipy = "*"
+cython = "*"
+h5py = "*"
+pillow = "*"
+imgaug = "*"
+scikit-image = "*"
+pycocotools = "*"
+requests = "*"
+flask = "*"
+werkzeug = "*"
+flask-cors = "*"
+
+[requires]
+python_version = "3.6"
