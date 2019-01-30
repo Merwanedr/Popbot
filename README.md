@@ -18,7 +18,7 @@ npm run serve
 
 **IMPORTANT:** Download the model file on [this link](https://github.com/matterport/Mask_RCNN/releases/download/v2.0/mask_rcnn_coco.h5) and put it in the server directory before doing the following.
 ````bash
-cd popbot
+cd server
 pipenv shell
 
 # Install dependencies (using Pipenv)
