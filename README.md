@@ -74,9 +74,9 @@ You can start the server with one of these categories as arguments to detect the
 * book
 
 **NOTES:**
-- For some weird reason, you have to restart the server in order to transform another image. If you don't, you'll get the first image as output. I didn't have time to figure out why that happens.
+- You have to restart the server in order to transform another image. If you don't, you'll get the first image as the output.
 - You can't combine two categories.
-- By default, only the largest object will be detected.
+- By default, only the largest selected object will be detected.
 
 ### Demo:
 
